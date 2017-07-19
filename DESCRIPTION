@@ -1,0 +1,14 @@
+Package: package01
+Type: Package
+Title: Testing and studying package building in R
+Version: 0.0.0.9000
+Authors@R: person("Mert", "Nuhoglu", email = "mert.nuhoglu@gmail.com",
+  role = c("aut", "cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+  Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  dplyr
